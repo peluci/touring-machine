@@ -16,7 +16,7 @@ This project was built in partnership with Ivia Costa.
 
 The `mt.json` file contains the configuration for the Turing Machine. It defines the number of trails, transitions, states, and alphabet used by the machine. If you want, you can design your own Turing Machine .json file and replace it.
 
-For example, you can use mt_2.json, which refers to a Machine that reads WWR. As shown in the picture:
+For example, you can use mt_2.json, which refers to a Machine L = { ww<sup>R</sup> | w ∈ {0,1} } . As shown in the picture:
 ![WWR Turing Machine](mt2_img.png)
 
 
